@@ -8,16 +8,13 @@
   },
   "properties": {
     "title": {
-      "type": "string",
-      "required": true
-    },
-    "releaseYear": {
-      "type": "date",
-      "required": true
+      "type": "string"
     },
     "genre": {
-      "type": "string",
-      "required": true
+      "type": "string"
+    },
+    "releaseDate": {
+      "type": "date"
     }
   },
   "validations": [],
